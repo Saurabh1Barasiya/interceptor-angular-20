@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Saurabh Barasiya",
+      "email": "saurabh.barasiya@gmail.com",
+      "age": 28
+    },
+    {
+      "id": "2",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@gmail.com",
+      "age": 28
+    },
+    {
+      "id": "3",
+      "name": "Ankit Verma",
+      "email": "ankit.verma@gmail.com",
+      "age": 26
+    },
+    {
+      "id": "4",
+      "name": "Priya Singh",
+      "email": "priya.singh@gmail.com",
+      "age": 24
+    },
+    {
+      "name": "neha maam",
+      "id": "5",
+      "email": "neha.singh@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "6",
+      "name": "Amit Kumar",
+      "email": "amit.kumar@gmail.com",
+      "age": 31
+    },
+    {
+      "id": "7",
+      "name": "Vikram Rathore",
+      "email": "vikram.rathore@gmail.com",
+      "age": 27
+    },
+    {
+      "id": "8",
+      "name": "Sneha Reddy",
+      "email": "sneha.reddy@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "9",
+      "name": "Rohan Das",
+      "email": "rohan.das@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "10",
+      "name": "Ishita Iyer",
+      "email": "ishita.iyer@gmail.com",
+      "age": 26
+    },
+    {
+      "id": "11",
+      "name": "Manish Gupta",
+      "email": "manish.gupta@gmail.com",
+      "age": 33
+    },
+    {
+      "id": "12",
+      "name": "Kavita Joshi",
+      "email": "kavita.joshi@gmail.com",
+      "age": 22
+    },
+    {
+      "id": "13",
+      "name": "Arjun Malhotra",
+      "email": "arjun.malhotra@gmail.com",
+      "age": 29
+    },
+    {
+      "id": "14",
+      "name": "Deepika Choudhary",
+      "email": "deepika.c@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "15",
+      "name": "Siddharth Jain",
+      "email": "sid.jain@gmail.com",
+      "age": 32
+    }
+  ]
+}
